@@ -1,13 +1,24 @@
----
-layout: default
----
-<div class="row g-5 mb-5">
-  <div class="col-md-8">
-    #<h3 class="fw-bold"> Hi </h3>
-    {{ content }}
-  </div>
-  <div class="col-md-3">
-    <img src="{{ site.github.url }}/assets/img/home.jpg" alt="Home" width="100%">
-  </div>
-</div>
-
+<!doctype html>
+<html lang="en">
+  {{ partial "head.html" . }}
+<body>
+  <a class="skip-link" href="#main">Skip to main</a>
+  <main id="main">
+    <div class="content">
+      {{ partial "header.html" . }}
+      {{ .Content }}
+      {{ if gt (len ( where .Site.RegularPages "Section" "posts" )) 0 }}
+      <h1>Latest Post</h1>
+      <section>
+        {{ range (first 3 (where .Site.RegularPages "Section" "posts" ).ByDate.Reverse) }}
+          <p>
+            <time class="g time" datetime="{{ dateFormat "2006-01-02" .Date }}">{{ dateFormat "2006-01-02" .Date }}</time>&nbsp;
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          <p>
+        {{ end }}
+      </section>
+      {{ end }}
+    </div>
+  </main>
+</body>
+</html>
