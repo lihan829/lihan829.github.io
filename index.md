@@ -7,7 +7,9 @@ I am a PhD student (started 2021) in the [Department of Linguistics](https://www
 - phonological representations
 - computational nature of tones
 
-# What's New
+Before Stony Brook, I got my master degree from Nanhang University (Nanjing, China) in 2021. My master thesis investigated the phonetic cues of rhetorical questions in Mandarin. Additionally, I have conducted field studies in the Northwest of China, engaging with diverse dialects/languages such as Uyghur in Xinjiang (my birthplace and hometown) and Lanzhou in Gansu China. Some other languages that I was fancsicatend include Wu dialects (Southeastern China) and Hausa (west Africa).
+
+### What's New
 - did a
 - did b
 - did c
