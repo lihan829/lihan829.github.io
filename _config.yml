@@ -21,14 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Han Li 李晗"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Han Li"
+  kangji           : "李晗”
+  avatar           : "https://media.licdn.com/dms/image/D4E03AQEV5ZMJsXDTbw/profile-displayphoto-shrink_800_800/0/1673918369995?e=1705536000&v=beta&t=KXL6KfZ6KOmsuwq1iK4BxfNqyVtdRki76jzBq8LI-iU"
   bio              : "Stony Brook University"
   location         : "Stony Brook, NY"
  # employer         :
  # pubmed           : 
  # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
- # email            : "han.li.4@stonybrook.edu"
+  email            : "han.li.4@stonybrook.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +38,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "lihan829.github.io"
+  github           :  "lihan829.github.io"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : “https://www.linkedin.com/in/hanli61/”
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
