@@ -7,7 +7,6 @@
 
 # Site Settings
 title                    : "Han Li"
-kangji                   :  “李 晗”
 description              : "PhD student in Linguistics"
 repository               : "lihan829"
 google_scholar_stats_use_cdn : true
@@ -26,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Stony Brook University "
   location         : "Stony Brook, New York"
-  employer         :
+  employer         : 李晗
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "han.li.4@stonybrook.edu"
