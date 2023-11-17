@@ -22,9 +22,7 @@ I am a PhD candidate in the [Department of Linguistics](https://www.linguistics.
 - interaction between tone and intonation/segments/metrical structure
 - computational nature of tone and its processe
 
-Before Stony Brook, I got my master degree from Nanhang University (Nanjing, China) in 2021. My master thesis investigated the phonetic cues of rhetorical questions in Mandarin. Additionally, I have conducted field studies in the Northwest of China, engaging with diverse dialects/languages such as Uyghur in Xinjiang, China (my birthplace and hometown) and Lanzhou in Gansu, China. Some other languages that I was fancsicatend include Wu dialects (Southeastern China) and Hausa (west Africa).
-
-My Chinese name is 李晗 (lǐ hán) where *lǐ* is my family name meaning "plum" and *hán* my given name, meaning "dawn".
+Before Stony Brook, I got my master degree from Nanhang University (Nanjing, China) in 2021. My master thesis investigated the phonetic cues of rhetorical questions in Mandarin. Additionally, I have conducted field studies in the Northwest of China, engaging with diverse dialects/languages such as Uyghur in Xinjiang, China (my birthplace and hometown) and Lanzhou in Gansu China. Some other languages that I was fancsicatend include Wu dialects (Southeastern China) and Hausa (west Africa).
 
 # 🔥 News
 
