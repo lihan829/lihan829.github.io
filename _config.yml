@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Han Li"
 description              : "PhD student in Linguistics at Stony Brook University"
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "lihan829.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  email            : "han.li.4@stonybrook.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : github/lihan829.com
   google_plus      :
   keybase          :
   instagram        :
