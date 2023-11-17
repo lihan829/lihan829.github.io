@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Han Li"
   kangji           : "李晗”
-  avatar           : "https://media.licdn.com/dms/image/D4E03AQEV5ZMJsXDTbw/profile-displayphoto-shrink_800_800/0/1673918369995?e=1705536000&v=beta&t=KXL6KfZ6KOmsuwq1iK4BxfNqyVtdRki76jzBq8LI-iU"
+ #avatar           : "https://media.licdn.com/dms/image/D4E03AQEV5ZMJsXDTbw/profile-displayphoto-shrink_800_800/0/1673918369995?e=1705536000&v=beta&t=KXL6KfZ6KOmsuwq1iK4BxfNqyVtdRki76jzBq8LI-iU"
   bio              : "Stony Brook University"
   location         : "Stony Brook, NY"
  # employer         :
