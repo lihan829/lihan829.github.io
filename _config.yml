@@ -7,8 +7,9 @@
 
 # Site Settings
 title                    : "Han Li"
-description              : "PhD student in Linguistics at Stony Brook University"
-repository               : "lihan829.github.io"
+kangji                   :  “李 晗”
+description              : "PhD student in Linguistics"
+repository               : "lihan829"
 google_scholar_stats_use_cdn : true
 
 # google analytics
