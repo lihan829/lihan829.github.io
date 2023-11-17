@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD candidate in the [Department of Linguistics](https://www.linguistics.stonybrook.edu/) at Stony Brook University. I am also affiliated with the [Institute for Advanced Computational Science](https://iacs.stonybrook.edu/index.php). I work with [Jeffrey Heinz](http://jeffreyheinz.net/) and [Ellen Broselow](https://linguistics.stonybrook.edu/faculty/ellen.broselow/). My research interest is primary in tone languages. Specifically, these questions include:
+I am a PhD student in the [Department of Linguistics](https://www.linguistics.stonybrook.edu/) at Stony Brook University. I am also affiliated with the [Institute for Advanced Computational Science](https://iacs.stonybrook.edu/index.php). I work with [Jeffrey Heinz](http://jeffreyheinz.net/) and [Ellen Broselow](https://linguistics.stonybrook.edu/faculty/ellen.broselow/). My research interest is primary in tone languages. Specifically, these questions include:
 
 - phonological representation
 - interaction between tone and intonation/segments/metrical structure
