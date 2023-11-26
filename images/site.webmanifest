@@ -8,9 +8,9 @@
           "type": "image/jpeg"
        },
        {
-        "src": "/android-chrome-512x512.png",
+        "src": "/pic.jpeg",
         "sizes": "512x512",
-        "type": "image/png"
+        "type": "image/jpeg"
         }
     ],
     "theme_color": "#FFFFFF",
