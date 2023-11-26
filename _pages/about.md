@@ -30,7 +30,7 @@ My Chinese name is 李晗 (lǐ hán) where *lǐ* is my family name meaning "plum
 
 # 🔥 News
 
-- *2022.07*: This itsy bitsy spider eventually defended her first Qualifying Paper *The Q-morpheme in Hausa*.
+- *2022.07*: This itsy bitsy spider eventually defended her first Qualifying Paper *The Q-morpheme in Hausa*. Committee: Ellen Broselow (main advisor), Marie Huffman, Jiwon Yun.
 - *2023.06*: I presented my project on a question marker in Hausa in ACAL-54 at UConn.
 - *2022.02*: A paper that I coauthored with Yi Li gets accepted.
 
