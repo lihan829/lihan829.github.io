@@ -20,11 +20,11 @@ redirect_from:
 
 I am a PhD student in the [Department of Linguistics](https://www.linguistics.stonybrook.edu/) at Stony Brook University. I am also affiliated with the [Institute for Advanced Computational Science](https://iacs.stonybrook.edu/index.php). I work with [Jeffrey Heinz](http://jeffreyheinz.net/) and [Ellen Broselow](https://linguistics.stonybrook.edu/faculty/ellen.broselow/). My research interest is primary in tone languages. Specifically, these questions include:
 
-- autosegmental representation
+- autosegmental theory
 - interaction between tone and intonation/segments/metrical structure
 - computational nature of tone and its processe
 
-Before Stony Brook, I got my master degree from Nanhang University (Nanjing, China) in 2021. My master thesis investigated the phonetic cues of rhetorical questions in Mandarin. Additionally, I have conducted field studies in the Northwest of China, engaging with diverse dialects/languages such as Uyghur in Xinjiang, China (my birthplace and hometown) and Lanzhou in Gansu China. Some other languages that I was fancsicatend include Wu dialects (Southeastern China) and Hausa (west Africa).
+Before Stony Brook, I got my master degree from Nanhang University (Nanjing, China) in 2021. My master thesis investigated the phonetic cues of rhetorical questions in Mandarin. Additionally, I have conducted field studies in the Northwest of China, engaging with diverse dialects/languages such as Uyghur in Xinjiang, China (my birthplace and hometown) and Lanzhou in Gansu China. Some other languages that I was interested in include Wu dialects (Southeastern China), Cantonese, Hausa (west Africa)
 
 My Chinese name is 李晗 (lǐ hán) where *lǐ* is my family name meaning "plum" and *hán* is my given name meaning "dawn".
 
