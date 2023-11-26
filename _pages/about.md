@@ -18,7 +18,7 @@ redirect_from:
 
 I am a PhD student in the [Department of Linguistics](https://www.linguistics.stonybrook.edu/) at Stony Brook University. I am also affiliated with the [Institute for Advanced Computational Science](https://iacs.stonybrook.edu/index.php). I work with [Jeffrey Heinz](http://jeffreyheinz.net/) and [Ellen Broselow](https://linguistics.stonybrook.edu/faculty/ellen.broselow/). My research interest is primary in tone languages. Specifically, these questions include:
 
-- phonological representation
+- autosegmental representation
 - interaction between tone and intonation/segments/metrical structure
 - computational nature of tone and its processe
 
@@ -42,5 +42,17 @@ My Chinese name is 李晗 (lǐ hán) where *lǐ* is my family name meaning "plum
 - The Q-morpheme in Hausa. Annual Conference of African Linguistics 54 (ACAL-54). UConn, June 2023
 
 # 📓 Teaching
+
+#### Primary Instructor
+
+- LIN101            Introduction to Linguistics
+- LIN307/542     Sociolinguistics
+
+#### Teaching Assistant
+
+- LIN201           Phonetics
+- LIN301           Phonology
+- LIN361/539    Math Methods
+- LIN430           Uncommonly Taught Languages
 
 # 📜 CV
