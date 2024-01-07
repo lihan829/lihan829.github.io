@@ -39,7 +39,7 @@ My Chinese name is 李晗 (lǐ hán) where *lǐ* is my family name meaning "plum
 - Yi, L., Li, H., Li, Y., Mu, J. (Accepted).An Ongoing Tonal-Patten Change: Lanzhou Dialect. Journal of Chinese Linguistics.
 - Li, H. (2021). Prosodic Differences between Rhetorical Questions and Information-seeking Questions in Mandarin.  *ICU Working Papers in Linguistics (ICUWPL)* , (15), 45-52.
 
-# Conference Talks
+# Conferences
 
 - The Q-morpheme in Hausa. Annual Conference of African Linguistics 54 (ACAL-54). UConn, June 2023
 
