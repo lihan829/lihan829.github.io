@@ -9,11 +9,12 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Conference Talks"
-    url: "/#-conference-talks"
+  - title: "Conferences"
+    url: "/#-conferences"
 
   - title: "Teaching"
     url: "/#-teaching"
 
   - title: "CV"
     url: "/#-cv"
+  
