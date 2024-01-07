@@ -32,18 +32,18 @@ My Chinese name is 李晗 (lǐ hán) where *lǐ* is my family name meaning "plum
 
 - *2023.07*: This itsy bitsy spider eventually defended her first Qualifying Paper *The Q-morpheme in Hausa*. Committee: Ellen Broselow (main advisor), Marie Huffman, Jiwon Yun.
 - *2023.06*: I presented my project on a question marker in Hausa in ACAL-54 at UConn.
-- *2022.02*: A paper that I coauthored with Yi Li was accepted by Journal of Chinese Linguistics.
+- *2022.02*: A paper that I coauthored with Yi Li about Lanzhou Tonal Merger was accepted by Journal of Chinese Linguistics.
 
 # 📝 Publications
 
 - Yi, L., Li, H., Li, Y., Mu, J. (Accepted).An Ongoing Tonal-Patten Change: Lanzhou Dialect. Journal of Chinese Linguistics.
 - Li, H. (2021). Prosodic Differences between Rhetorical Questions and Information-seeking Questions in Mandarin.  *ICU Working Papers in Linguistics (ICUWPL)* , (15), 45-52.
 
-# 🎙️Conference Talks
+# Conference Talks
 
 - The Q-morpheme in Hausa. Annual Conference of African Linguistics 54 (ACAL-54). UConn, June 2023
 
-# 📓 Teaching
+# Teaching
 
 #### Primary Instructor
 
@@ -58,3 +58,5 @@ My Chinese name is 李晗 (lǐ hán) where *lǐ* is my family name meaning "plum
 - LIN430           Uncommonly Taught Languages
 
 # 📜 CV
+
+Please click [here](https://www.overleaf.com/read/sftvxwcyrcrz#09f237/) to view my most updated CV.
