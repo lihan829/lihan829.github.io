@@ -27,7 +27,7 @@ I am a PhD student in the [Department of Linguistics](https://www.linguistics.st
 
 Before Stony Brook, I got my master degree from Nanhang University (Nanjing, China) in 2021. My master thesis investigated the phonetic cues of rhetorical questions in Mandarin. Additionally, I have conducted field studies in the Northwest of China, engaging with diverse dialects/languages such as Uyghur in Xinjiang, China and Lanzhou in Gansu China. Some other languages that I was interested in include Wu dialects (Southeastern China), Cantonese, Hokkein, Hausa (west Africa)
 
-My Chinese name is 李晗 (lǐ hán) where *lǐ* is my family name meaning "plum" and *hán* is my given name meaning "dawn". I was born and raised in [Turpan, Xinjiang](https://en.wikipedia.org/wiki/Turpan). Turpan, which means "the lowest place" in Uyghur, is known for being the [lowest, driest, and hottest place](https://en.chinaculture.org/gb/en_curiosity/2004-08/03/content_57625.htm) in China. I grew up in a community where Mandarin, Uyghur, Kazakh, Sichuan, Shanghainese were all spoken.
+My Chinese name is 李晗 (lǐ hán) where *lǐ* is my family name meaning "plum" and *hán* is my given name meaning "dawn". I was born and raised in [Turpan, Xinjiang](https://en.wikipedia.org/wiki/Turpan). The word Turpan means [“the lowest place”](https://journeybeyondhorizon.com/a-journey-to-turpan-travel/) in Uyghur, referring to its location at the lowest altitude in China and the second lowest in the world (after the Dead Sea). I grew up in a community where Mandarin, Uyghur, Kazakh, Sichuan, Shanghainese were all spoken.
 
 
 # Publications
