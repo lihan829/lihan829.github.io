@@ -25,17 +25,18 @@ I am a PhD student in the [Department of Linguistics](https://www.linguistics.st
 - production and perception of tones
 - computational model of tonotactics and tonal processes
 
-Before Stony Brook, I got my master degree from Nanhang University (Nanjing, China) in 2021. My master thesis investigated the phonetic cues of rhetorical questions in Mandarin. Additionally, I have conducted field studies in the Northwest of China, engaging with diverse dialects/languages such as Uyghur in Xinjiang, China (my birthplace and hometown) and Lanzhou in Gansu China. Some other languages that I was interested in include Wu dialects (Southeastern China), Cantonese, Hokkein, Hausa (west Africa)
+Before Stony Brook, I got my master degree from Nanhang University (Nanjing, China) in 2021. My master thesis investigated the phonetic cues of rhetorical questions in Mandarin. Additionally, I have conducted field studies in the Northwest of China, engaging with diverse dialects/languages such as Uyghur in Xinjiang, China and Lanzhou in Gansu China. Some other languages that I was interested in include Wu dialects (Southeastern China), Cantonese, Hokkein, Hausa (west Africa)
 
-My Chinese name is 李晗 (lǐ hán) where *lǐ* is my familyZ name meaning "plum" and *hán* is my given name meaning "dawn". I grew up in a family where Mandarin, Sichuan dialect and Shanghainese were all spoken, and I had friends who spoke Uyghur.
+My Chinese name is 李晗 (lǐ hán) where *lǐ* is my family name meaning "plum" and *hán* is my given name meaning "dawn". I was born and raised in [Turpan, Xinjiang](https://en.wikipedia.org/wiki/Turpan). The word "Turpan" means "the lowest place" in Uygur and "the fertile land" in Turki. I grew up in a community where Mandarin, Uyghur, Kazakh, Sichuan, Shanghainese were all spoken.
 
 
 # Publications
+- Li, H. & Heinz. J (under review) Learning tonotactics with autosegmental representations, *Phonology*, 2025
 
-- Yi, L., Li, H., Li, Y., & Mu, J. (2024). *An ongoing tonal-pattern change: Lanzhou dialect.*  
-_Journal of Chinese Linguistics, 52_(2), 336–361.[[PDF]](./papers/lanzhou_tone.pdf)
+- Yi, L., Li, H., Li, Y., & Mu, J. (2024). An ongoing tonal-pattern change: Lanzhou dialect. *Journal of Chinese Linguistics*, 52_(2), 336–361.[[PDF]](./papers/lanzhou_tone.pdf)
 
-- Li, H. (2021). Prosodic Differences between Rhetorical Questions and Information-seeking Questions in Mandarin.  *ICU Working Papers in Linguistics (ICUWPL)* , (15), 45-52.
+- Li, H. (2021). Prosodic Differences between Rhetorical Questions and Information-seeking Questions in Mandarin.  *ICU Working Papers in Linguistics (ICUWPL)* , (15), 45-52. [[PDF]](./papers/rhetoric.pdf)
+
 
 # Presentations
 
