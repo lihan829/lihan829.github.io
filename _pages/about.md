@@ -31,11 +31,12 @@ My Chinese name is 李晗 (lǐ hán) where *lǐ* is my family name meaning "plum
 
 
 # Publications
+
 - Li, H. & Heinz. J (under review) Learning tonotactics with autosegmental representations, *Phonology*, 2025
 
-- Yi, L., Li, H., Li, Y., & Mu, J. (2024). An ongoing tonal-pattern change: Lanzhou dialect. *Journal of Chinese Linguistics*, 52_(2), 336–361.[[PDF]](./papers/lanzhou_tone.pdf)
+- Yi, L., Li, H., Li, Y., & Mu, J. (2024). An ongoing tonal-pattern change: Lanzhou dialect. *Journal of Chinese Linguistics*, 52_(2), 336–361.[[PDF]](./_data/lanzhou_tone.pdf)
 
-- Li, H. (2021). Prosodic Differences between Rhetorical Questions and Information-seeking Questions in Mandarin.  *ICU Working Papers in Linguistics (ICUWPL)* , (15), 45-52. [[PDF]](./papers/rhetoric.pdf)
+- Li, H. (2021). Prosodic Differences between Rhetorical Questions and Information-seeking Questions in Mandarin.  *ICU Working Papers in Linguistics (ICUWPL)* , (15), 45-52. [[PDF]](./_data/rhetoric.pdf)
 
 
 # Presentations
