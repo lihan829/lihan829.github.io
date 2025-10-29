@@ -39,27 +39,27 @@ _Journal of Chinese Linguistics, 52_(2), 336–361.[[PDF]](./papers/lanzhou_tone
 
 # Presentations
 
-Li, H. & Heinz, J. (Accepted for full talk). Comparing tonotactic learning over strings and autosegmental representations. Paper to be presented at the Old World Conference in Phonology (OCP 23)
+- Li, H. & Heinz, J. (Accepted for full talk). Comparing tonotactic learning over strings and autosegmental representations. Paper to be presented at the Old World Conference in Phonology (OCP 23)
 
-Li, H. (2025). Learning tonotactics over autosegmental representations. Invited talk at the Phonology Group, Yale University, New Haven, CT.
+- Li, H. Learning tonotactics over autosegmental representations. Invited talk at the Phonology Group, Oct 2025, Yale University, New Haven, CT.
 
-Li, H. (2025). Understanding tones in language: Patterns, representations, and insights. Student Seminar, Institute for Advanced Computational Science, Stony Brook University, Stony Brook, NY.
+- Li, H. Understanding tones in language: Patterns, representations, and insights. Student Seminar, Institute for Advanced Computational Science,Oct 2025,Stony Brook University, Stony Brook, NY.
 
-Li, H. (2024). Learning tonal patterns. (Lightning Talk) Institute for Advanced Computational Science Research Day, Stony Brook University, Stony Brook, NY.
+- Li, H. Learning tonal patterns. (Lightning Talk) Institute for Advanced Computational Science Research Day, June 2025, Stony Brook University, Stony Brook, NY.
 
-Li, H. (2024). Learning tonotactic patterns over autosegmental representations. Paper presented at the Annual Meeting on Phonology (AMP), Rutgers University, New Brunswick, NJ.
+- Li, H. Learning tonotactic patterns over autosegmental representations. Paper presented at the Annual Meeting on Phonology (AMP), Rutgers University, New Brunswick, NJ.
 
-Li, H. (2024). Bottom-Up Factor Induction Algorithm (BUFIA). (Joint session with Logan Swanson and Sarah Payne) Rutgers Subregular Phonology Workshop, Rutgers University, New Brunswick, NJ.
+- Li, H. (2024). Bottom-Up Factor Induction Algorithm (BUFIA). (Joint session with Logan Swanson and Sarah Payne) Rutgers Subregular Phonology Workshop, Rutgers University, New Brunswick, NJ.
 
-Li, H. (2022). The Q-morpheme in Hausa. Paper presented at the 35th Annual Conference on African Linguistics (ACAL 35), University of Connecticut, Storrs, CT.
+- Li, H. (2022). The Q-morpheme in Hausa. Paper presented at the 35th Annual Conference on African Linguistics (ACAL 35), University of Connecticut, Storrs, CT.
 
-Li, H. (2022). The Q-morpheme in Hausa. Linguistics Brown Bag Presentation, Stony Brook University, Stony Brook, NY.
+- Li, H. (2022). The Q-morpheme in Hausa. Linguistics Brown Bag Presentation, Stony Brook University, Stony Brook, NY.
 
-Li, H. (2020). Prosodic differences between rhetorical and information-seeking questions in Mandarin. Paper presented at the 5th Asian Junior Linguists Conference (AJL 5), International Christian University, Tokyo, Japan (online).
+- Li, H. (2020). Prosodic differences between rhetorical and information-seeking questions in Mandarin. Paper presented at the 5th Asian Junior Linguists Conference (AJL 5), International Christian University, Tokyo, Japan (online).
 
-Li, H. (2020). Syntactic distribution and prosodic features of rhetorical questions in Mandarin. Paper presented at the 8th International Academic Conference for Graduates (IACGN 8), Nanjing, China.
+- Li, H. (2020). Syntactic distribution and prosodic features of rhetorical questions in Mandarin. Paper presented at the 8th International Academic Conference for Graduates (IACGN 8), Nanjing, China.
 
-Li, H. (2019). Attenuation and boosting of complaints in Chinese computer-mediated communication. Paper presented at the 7th International Academic Conference for Graduates (IACGN 7), Nanjing, China.
+- Li, H. (2019). Attenuation and boosting of complaints in Chinese computer-mediated communication. Paper presented at the 7th International Academic Conference for Graduates (IACGN 7), Nanjing, China.
 
 # Teaching
 
