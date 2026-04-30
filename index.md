@@ -1,8 +1,16 @@
 ---
-title: Han Li
+title: About Me
 layout: home
 nav_order: 1
 ---
+<nav class="anchor-nav">
+  <a href="#about">About</a> |
+  <a href="#research">Research</a> |
+  <a href="#teaching">Teaching</a> |
+  <a href="#skills">Skills</a> |
+  
+  <a href="#contact">Contact</a>
+</nav>
 
 # Han Li
 
