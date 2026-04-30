@@ -7,7 +7,7 @@ nav_order: 1
 
 # Hi there!
 
-I am a PhD student in the [Department of Linguistics](https://www.linguistics.stonybrook.edu/) at Stony Brook University. I am also affiliated with the [Institute for Advanced Computational Science](https://iacs.stonybrook.edu/index.php). I work with [Jeffrey Heinz](http://jeffreyheinz.net/). My research interest is primary in computational linguistics with a focus on tone languages. Specifically, these questions include:
+I am a PhD student in the [Department of Linguistics] (https://linguistics.stonybrook.edu/) at Stony Brook University. I am also affiliated with the [Institute for Advanced Computational Science](https://iacs.stonybrook.edu/index.php). I work with [Jeffrey Heinz](http://jeffreyheinz.net/). My research interest is primary in computational linguistics with a focus on tone languages. Specifically, these questions include:
 
 - tonal representation and autosegmental theory
 - interaction between tone and intonation/segments
