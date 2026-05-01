@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <p align="center">
-  <img src="{{ '/images/profile.png' | relative_url }}" alt="Han Li" width="400">
+  <img src="{{ '/images/profile.png' | relative_url }}" alt="Han Li" width="250">
 </p>
 
 # Hi there!
