@@ -22,9 +22,9 @@ Together, these strands aim to build a unified account of how tone and prosodic 
 
 - Li, H. & Heinz. J (under review) What Matters in Tonotactic Learning *SCiL*, 2026
 
-- Yi, L., Li, H., Li, Y., & Mu, J. (2024). An ongoing tonal-pattern change: Lanzhou dialect. *Journal of Chinese Linguistics*, 52(2), 336–361. [PDF](./_data/lanzhou_tone.pdf)
+- Yi, L., Li, H., Li, Y., & Mu, J. (2024). An ongoing tonal-pattern change: Lanzhou dialect. *Journal of Chinese Linguistics*, 52(2), 336–361. [PDF](/data/lanzhou_tone.pdf)
 
-- Li, H. (2021). Prosodic Differences between Rhetorical Questions and Information-seeking Questions in Mandarin.  *ICU Working Papers in Linguistics (ICUWPL)* , (15), 45-52. [PDF](./_data/rhetoric.pdf)
+- Li, H. (2021). Prosodic Differences between Rhetorical Questions and Information-seeking Questions in Mandarin.  *ICU Working Papers in Linguistics (ICUWPL)* , (15), 45-52. [PDF](/data/rhetoric.pdf)
 
 
 # Presentations
