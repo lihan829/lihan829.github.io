@@ -6,7 +6,7 @@ nav_order: 1
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 30px;">
 
-  <img src="{{ '/assets/images/profile.png' | relative_url }}"
+  <img src="{{ '/images/profile.png' | relative_url }}"
        alt="Han Li"
        width="150"
        style="border-radius: 50%; margin-right: 25px;">
