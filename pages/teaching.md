@@ -6,8 +6,6 @@ nav_order: 3
 
 # Teaching
 
-## :contentReference[oaicite:0]{index=0}
-
 ### Instructor of Record
 - **LIN 101** — Introduction to Linguistics *(co-taught)*, Winter 2023  
 - **LIN 230** — Sociolinguistics *(co-taught)*, Summer 2023; Summer 2024  
