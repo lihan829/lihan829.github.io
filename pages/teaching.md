@@ -1,6 +1,6 @@
 ---
 title: Teaching
-layout: minimal
+layout: default
 nav_order: 3
 ---
 
