@@ -17,8 +17,8 @@ A collection of research tools, datasets, and code developed for computational p
 - Focus: tonotactic learning and structured representations  
 - [GitHub](https://github.com/lihan829/BUFIA_AR)
 
-### ARextractor
-- Tool for extracting autosegmental representations from input forms  
+### Prosodic Extractor
+- Tool for extracting syllabic, segmental, and tonal structures from input orthographic forms  
 - Converts linear input into multi-tier structures  
 - [GitHub](https://github.com/lihan829/ARextractor)
 

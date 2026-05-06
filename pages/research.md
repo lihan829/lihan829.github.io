@@ -8,19 +8,16 @@ My research spans three interconnected areas:
 
 - **Computational Linguistics:** I develop interpretable models of phonological learning, focusing on how structured representations (e.g., autosegmental graphs) shape what can be learned from limited data.
 
-- **Phonetics–Phonology Interface:** I investigate how gradient acoustic detail supports or constrains abstract tonal representations, combining experimental methods with formal analysis.
-
-- **Atypical Speech:** I examine how prosodic systems are produced and perceived in clinical populations, and what this reveals about the organization of phonological knowledge.
+- **Phonetics–Phonology Interface:** I investigate how acoustic and perceptual patterns interact with abstract phonological representations, combining experimental methods and formal analysis to study the relationship between gradient speech behavior and phonological structure.
 
 Together, these strands aim to build a unified account of how tone and prosodic structure are represented, learned, and realized across both typical and atypical speech.
-
 
 
 # Publications
 
 - Li, H. & Heinz. J (under review) Learning tonotactics with autosegmental representations, *Phonology*, 2026
 
-- Li, H. & Heinz. J (under review) What Matters in Tonotactic Learning *SCiL*, 2026
+- Li, H. & Heinz, J. (2026). What matters in tonotactic learning. Proceedings of the Society for Computation in Linguistics (SCiL). Accepted.
 
 - Li, H (2025) Learning Tonotactic Patterns over Autosegmental Representations [PDF](https://openpublishing.library.umass.edu/amphonology/article/id/3034/)
 
