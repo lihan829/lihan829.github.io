@@ -17,7 +17,9 @@ Together, these strands aim to build a unified account of how tone and prosodic 
 
 - Li, H. & Heinz. J (under review) Learning tonotactics with autosegmental representations, *Phonology*, 2026
 
-- Li, H. & Heinz, J. (2026). What matters in tonotactic learning. Proceedings of the Society for Computation in Linguistics (SCiL). Accepted.
+- Li, H. & Heinz, J. (2026). What matters in tonotactic learning. Proceedings of the Society for Computation in Linguistics (SCiL). Accepted. [Preprint](/data/scil2026.pdf)
+
+- Li, H.  (In print). The Interaction between Tone and Intonation in Hausa _Wh_- Questions. Pamoja tena 'Together again': African linguistics after COVID. (Contemporary African Linguistics 14).  [Preprint](/data/LiACAL54.pdf)
 
 - Li, H (2025) Learning Tonotactic Patterns over Autosegmental Representations [PDF](https://openpublishing.library.umass.edu/amphonology/article/id/3034/)
 
