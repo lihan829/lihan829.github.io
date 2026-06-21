@@ -5,7 +5,7 @@ nav_order: 5
 ---
 
 # Curriculum Vitae
-See the most updated CV [here](https://cocalc.com/share/public_paths/147fa6fd6491712aadde635e82d580de53ed0de5)
+See the most updated CV [here](https://www.overleaf.com/read/sftvxwcyrcrz#09f237)
 
 <iframe 
   src="{{ '/data/lihan_CV_Apr.pdf' | relative_url }}" 
