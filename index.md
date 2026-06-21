@@ -21,7 +21,7 @@ Before Stony Brook, I received my master’s degree from Nanhang University (Nan
 I have also conducted fieldwork in Northwest China, working with languages and dialects such as Uyghur (Xinjiang) and Lanzhou Mandarin (Gansu). Other languages of interest include Wu dialects, Cantonese, Hokkien, and Hausa.
 
 I was born and raised in [Turpan, Xinjiang](https://en.wikipedia.org/wiki/Turpan), an oasis city in the 
-middle of the desert. It's home to the [Turpan Depression](https://en.wikipedia.org/wiki/Turpan_Depression
-), the lowest point in China, and in 2023 we broke the country's all-time heat record at [(52.2°C / 126°F)](
+middle of the desert. It marks the lowest point in China. In 2023, we broke the country's all-time heat 
+record at [(52.2°C / 126°F)](
 https://www.the-independent.com/climate-change/news/china-heatwave-2023-record-temperature-b2376587.html). 
-Growing up there, I had a very different understanding of what counts as "a bit warm outside."
+As a Turpaner, I had a very different understanding of what counts as "a bit warm outside."
