@@ -15,7 +15,7 @@ Together, these strands aim to build a unified account of how tone and prosodic 
 
 # Publications
 
-- Li, H. & Heinz. J (under review) Learning tonotactics with autosegmental representations, *Phonology*, 2026
+- Li, H. & Heinz. J (Accepted) Learning tonotactics with autosegmental representations, *Phonology*
 
 - Li, H. & Heinz, J. (2026). What matters in tonotactic learning. Proceedings of the Society for Computation in Linguistics (SCiL). Accepted. [Preprint](/data/scil2026.pdf)
 
