@@ -23,7 +23,7 @@ Together, these strands aim to build a unified account of how tone and prosodic 
 
 - Li, H (2025) Learning Tonotactic Patterns over Autosegmental Representations [DOI](https://openpublishing.library.umass.edu/amphonology/article/id/3034/)
 
-- Yi, L., Li, H., Li, Y., & Mu, J. (2024). An ongoing tonal-pattern change: Lanzhou dialect. *Journal of Chinese Linguistics*, 52(2), 336–361. [PDF](/data/lanzhou_tone.pdf) [DOI](10.1353/jcl.2024.a929992)
+- Yi, L., Li, H., Li, Y., & Mu, J. (2024). An ongoing tonal-pattern change: Lanzhou dialect. *Journal of Chinese Linguistics*, 52(2), 336–361. [PDF](/data/lanzhou_tone.pdf) [DOI](https://muse.jhu.edu/article/929992)
 
 - Li, H. (2021). Prosodic Differences between Rhetorical Questions and Information-seeking Questions in Mandarin.  *ICU Working Papers in Linguistics (ICUWPL)* , (15), 45-52. [PDF](/data/rhetoric.pdf)
 
