@@ -15,15 +15,15 @@ Together, these strands aim to build a unified account of how tone and prosodic 
 
 # Publications
 
-- Li, H. & Heinz. J (Accepted) Learning tonotactics with autosegmental representations, *Phonology*
+- Li, H. & Heinz. J (Accepted) Learning tonotactics with autosegmental representations, *Phonology* [Manscript](/data/pho.pdf)
 
-- Li, H. & Heinz, J. (2026). What matters in tonotactic learning. Proceedings of the Society for Computation in Linguistics (SCiL). Accepted. [Preprint](/data/scil2026.pdf)
+- Li, H. & Heinz, J. (2026). What matters in tonotactic learning. Proceedings of the Society for Computation in Linguistics (SCiL). Accepted. [PDF](/data/scil2026.pdf)
 
-- Li, H.  (In print). The Interaction between Tone and Intonation in Hausa _Wh_- Questions. Pamoja tena 'Together again': African linguistics after COVID. (Contemporary African Linguistics 14).  [Preprint](/data/LiACAL54.pdf)
+- Li, H.  (In print). The Interaction between Tone and Intonation in Hausa _Wh_- Questions. Pamoja tena 'Together again': African linguistics after COVID. (Contemporary African Linguistics 14).  [PDF](/data/LiACAL54.pdf)[DOI](https://doi.org/10.5281/zenodo.20285200)
 
-- Li, H (2025) Learning Tonotactic Patterns over Autosegmental Representations [PDF](https://openpublishing.library.umass.edu/amphonology/article/id/3034/)
+- Li, H (2025) Learning Tonotactic Patterns over Autosegmental Representations [DOI](https://openpublishing.library.umass.edu/amphonology/article/id/3034/)
 
-- Yi, L., Li, H., Li, Y., & Mu, J. (2024). An ongoing tonal-pattern change: Lanzhou dialect. *Journal of Chinese Linguistics*, 52(2), 336–361. [PDF](/data/lanzhou_tone.pdf)
+- Yi, L., Li, H., Li, Y., & Mu, J. (2024). An ongoing tonal-pattern change: Lanzhou dialect. *Journal of Chinese Linguistics*, 52(2), 336–361. [PDF](/data/lanzhou_tone.pdf)[DOI](10.1353/jcl.2024.a929992)
 
 - Li, H. (2021). Prosodic Differences between Rhetorical Questions and Information-seeking Questions in Mandarin.  *ICU Working Papers in Linguistics (ICUWPL)* , (15), 45-52. [PDF](/data/rhetoric.pdf)
 
