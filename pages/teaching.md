@@ -50,6 +50,6 @@ nav_order: 3
 
 | Role | Organization | Term |
 |---|---|---|
-| Instructor | [Longwood Women in STEM](https://news.stonybrook.edu/university/from-drones-to-code-women-in-stem-high-school-students-explore-career-pathways/) — Led instructional activities for high school students exploring STEM career pathways through hands-on workshops and mentoring at Stony Brook University | April 2026 |
-| Instructor | North American Computational Linguistics Open Competition (NACLO) | 2024–2025 |
-| Tutor | Summer Youth Camp for Computational Linguistics (SYCCL) | 2023–2025 |
+| Instructor | [Women in STEM](https://news.stonybrook.edu/university/from-drones-to-code-women-in-stem-high-school-students-explore-career-pathways/) | April 2026 |
+| Instructor | [North American Computational Linguistics Open Competition (NACLO)](https://naclo.org/) | 2024–2025 |
+| Tutor | [Summer Youth Camp for Computational Linguistics (SYCCL)](https://iacs.stonybrook.edu/opportunities/K-12/Summer%20Youth%20Camp%20for%20Computational%20Linguistics) | 2023–2025 |
