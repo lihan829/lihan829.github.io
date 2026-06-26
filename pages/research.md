@@ -13,7 +13,7 @@ My research spans three interconnected areas:
 Together, these strands aim to build a unified account of how tone and prosodic structure are represented, learned, and realized across both typical and atypical speech.
 
 
-# Publications
+## Publications
 
 - Li, H. & Heinz. J (Accepted) Learning tonotactics with autosegmental representations, *Phonology* [Manscript](/data/pho.pdf)
 
@@ -28,7 +28,7 @@ Together, these strands aim to build a unified account of how tone and prosodic 
 - Li, H. (2021). Prosodic Differences between Rhetorical Questions and Information-seeking Questions in Mandarin.  *ICU Working Papers in Linguistics (ICUWPL)* , (15), 45-52. [PDF](/data/rhetoric.pdf)
 
 
-# Presentations
+## Presentations
 
 - Li, H. & Heinz, J. What Matters in Tonotactic Learning *SCiL*, 2026
 
