@@ -1,0 +1,230 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage{tabularx}
+\usepackage{geometry} % For page margins
+\geometry{a4paper, margin=0.75in} % Set paper size and margins
+\usepackage{titlesec} % For section title formatting
+\usepackage{enumitem} % For compact itemized lists
+\usepackage{hyperref} % For hyperlinks
+\usepackage{etaremune}
+\usepackage{libertine}
+% Formatting
+\setlength{\parskip}{0.5em} % Increase spacing between paragraphs and items
+\titleformat{\section}{\large\bfseries}{1em}{0em}{}[\titlerule] % Section formatting
+\titlespacing*{\section}{0pt}{1.5\baselineskip}{1.5\baselineskip} % Add extra space before and after sections
+\titlespacing*{\subsection}{pt}{1.2\baselineskip}{0.8\baselineskip} % More space for subsections
+% Define custom CV section command
+\newcommand{\cvsection}[1]{\section*{\Large \textsc{#1}}\vspace{-1em}}
+\newcommand{\cvsubsection}[1]{\noindent{\textsc{#1}}}
+
+% Begin document
+\begin{document}
+% Header
+\begin{center}
+    {\LARGE \textbf{\sc{Han Li}}} \\[8pt] % Name
+    Linguistics Department, Stony Brook University \\  
+    100 Nicolls Road, Stony Brook, NY 11790 \\  
+    \href{mailto:han.li.4@stonybrook.edu}{han.li.4@stonybrook.edu} |
+    \href{http://lihan829.github.io}{lihan829.github.io}\\
+    % \small {Updated \today}
+\end{center}
+
+% Education Section
+\cvsection{Research Interests}
+\begin{tabular}{@{}l p{0.8\linewidth}@{}}
+\textbf{Theoretical} & Phonology · Phonetics · Tone and Prosody · Autosegmental Representations \\
+\textbf{Computational} & Formal Language Theory · Learnability · Language Modeling \\
+\textbf{Languages} & Hausa · Mandarin · Cantonese · Wu · Hokkien · Lanzhou · Uyghur 
+\end{tabular}
+
+\cvsection{Education}
+\noindent
+\textbf{Stony Brook University}, Stony Brook, NY \hfill 2021–Present \\  
+\textit{Ph.D. in Linguistics} \\  
+Affiliated with the \textbf{Institute for Advanced Computational Science} \\
+Dissertation: \textit{Learning Tonal Patterns} \\
+Committee: Jeffrey Heinz (main advisor), Ellen Broselow, Jiwon Yun, Adam Jardine (external)
+
+
+\vspace{1em}\noindent
+\textbf{Nanjing Aeronautics and Astronautics University}, Nanjing, China \hfill 2018–2021 \\  
+\textit{M.A. in Linguistics} \\  
+Thesis: \textit{Prosody of Mandarin Rhetorical Questions}  
+
+\vspace{1em}\noindent
+\textbf{China Agricultural University}, Beijing, China \hfill 2013–2017 \\  
+\textit{B.A. in English Language and Literature} \\  
+Thesis: \textit{English Interrogative Intonation of Uyghur EFL Learners} 
+\\
+\\
+\noindent \textsc{Non-Degree Seeking}\\\\
+\textbf{Institute for Advanced Computational Science;} Stony Brook, NY \hfill 2022-2024\\
+Advanced Graduate Certificate in \textit{Data and Computational Science}
+\cvsection{Publications}
+
+\cvsubsection{Peer-reviewed Journals}
+
+\begin{etaremune}[itemsep=0.8em] 
+\item \textbf{Li, H.} \& Heinz, J. (Accepted) \textit{Tonotactic learning with autosegmental representations}. \textit{Phonology}.
+
+\item Yi, L., \textbf{Li, H.}, Li, Y., \& Mu, J. (2024). An ongoing tonal-pattern change: 
+Lanzhou dialect. \textit{Journal of Chinese Linguistics, 52}(2), 336–361.
+\end{etaremune}
+
+\cvsubsection{Peer-reviewed Conference Proceedings \& Book Chapters}
+\begin{etaremune}[itemsep=0.8em]
+\item \textbf{Li, H}. \& Heinz, J., (2026) What Matters in Tonotactic Learning. \textit{Society for Computation in Linguistics} 9(1).
+
+\item \textbf{Li, H.} (2026). The Interaction between Tone and Intonation in Hausa Wh-questions. In Carstens, Vicki, Russell, Katherine R., Akingbade, Olawale, Morton, Deborah \& Diercks, Michael (eds.). 2026. \textit{Pamoja tena `Together again': African linguistics after COVID}. (Contemporary African Linguistics 14). Berlin: Language Science Press.
+
+
+\end{etaremune}
+
+\cvsubsection{Peer-reviewed Abstract-based Proceedings}
+\begin{etaremune}[itemsep=0.8em]
+
+\item \textbf{Li, H.} (2025). Learning tonotactic patterns over autosegmental representations. 
+\textit{Proceedings of the Annual Meetings on Phonology 2025}
+
+\item \textbf{Li, H.} (2021). Prosodic differences between rhetorical and information-seeking 
+questions in Mandarin. \textit{ICU Working Papers in Linguistics, 15}, 45–52.
+
+\end{etaremune}
+
+% Presentations Section
+\section*{\Large \textsc{Presentations}}
+\vspace{-1em}
+\cvsubsection{Conference and Workshop Presentations}
+\begin{etaremune}[itemsep=0.8em]
+
+    \item \textbf{Li, H.} \& Heinz, J. (2026). \textit{What Matters in Tonotactic Learning.} Talk at the Society for Computation in Linguistics, University of California,
+    San Diego. 
+    
+    \item \textbf{Li, H.} \& Heinz, J. (2026) \textit{Comparing tonotactic learning over strings and autosegmental representations.} Old World Conference in Phonology (OCP 23), University of Cambridge, Cambridge, UK.
+
+    
+    \item \textbf{Li, H.} (2025). \textit{Understanding tones in language: patterns, representations, and insights.} Student Seminar, Institute for Advanced Computational Science, Stony Brook University.
+    
+    \item \textbf{Li, H.} (2025). \textit{Cross-fold Validation of BUFIA-AR}. Rutgers Subregular Phonology Workshop 2025, Rutgers University, New Brunswick, NJ.
+    
+    \item \textbf{Li, H.} (2024). \textit{Bottom-Up Factor Inference Algorithm over Autosegmental Representation (BUFIA-AR).} Rutgers Subregular Phonology Workshop, Rutgers University, New Brunswick, NJ.
+    
+    \item \textbf{Li, H.} (2024). \textit{Learning Tonal Patterns.} Lightning Talk, Institute for Advanced Computational Science, Stony Brook University.
+
+    \item \textbf{Li, H.} (2022). \textit{The Q-morpheme in Hausa.} Paper presented at the 54th Annual Conference on African Linguistics (ACAL 54), University of Connecticut, Storrs, CT.
+
+    \item \textbf{Li, H.} (2021). \textit{Prosodic differences between rhetorical and information-seeking questions in Mandarin.} Paper presented at the 5th Asian Junior Linguists Conference (AJL 5), International Christian University, Tokyo, Japan (online).
+
+    \item \textbf{Li, H.} (2020). \textit{Syntactic distribution and prosodic features of rhetorical questions in Mandarin.} Paper presented at the 8th International Academic Conference for Graduates (IACGN 8), Nanjing, China.
+
+    \item \textbf{Li, H.} (2019). \textit{Attenuation and boosting of complaints in Chinese computer-mediated communication.} Paper presented at the 7th International Academic Conference for Graduates (IACGN 7), Nanjing, China.
+
+\end{etaremune}
+
+\cvsubsection{Invited Talks}
+\begin{etaremune}[itemsep=0.8em]
+    \item \textbf{Li, H.} (2026). \textit{Tone as Structure: Morphology, Representation, and Learning}, Surrey Morphology Group, University of Surrey, London, UK.
+    
+    \item \textbf{Li, H.} (2025). \textit{Learning tonotactics over autosegmental representations.}, Phonology Group, Yale University, New Haven, CT.
+
+
+\end{etaremune}
+
+\cvsubsection{Poster Presentations}
+\begin{etaremune}[itemsep=0.8em]
+
+    \item \textbf{Li, H.} (2024). \textit{Learning tonotactic patterns over autosegmental representations.} Poster presented at the Annual Meeting on Phonology (AMP), Rutgers University, New Brunswick, NJ, October 2024.
+
+    \item \textbf{Li, H.} (2024). \textit{Learning tonal patterns.} Poster presented at Institute for Advanced Computational Science Research Day, Stony Brook University, April 2024.
+
+\end{etaremune}
+
+% Honors & Awards Section
+
+\cvsection{Honors \& Awards}
+\begin{etaremune}[itemsep=0.3em]
+\item Society for Computation in Linguistics (SCiL) Conference Scholarship (\$800) \hfill 2026
+\item Stony Brook Foundation Board of Trustees Dissertation Completion Endowed Fellowship (\$15,000) \hfill 2026
+\item Junior Researcher Award, Institute for Advanced Computational Science (\$34,000)  \hfill 2024 -2026
+    \item Research Grant, Department of Linguistics, Stony Brook University (\$300)   \hfill 2021
+    % \item Distinguished Graduate, College of Foreign Languages, Nanjing Aeronautics and Astronautics University \hfill 2021
+    % \item Excellence Fellowship, College of Foreign Languages, Nanjing Aeronautics and Astronautics University \hfill 2018 - 2021
+\end{etaremune}
+
+% Teaching Experience Section
+\cvsection{Employment}
+\subsubsection*{\sc{Stony Brook University}}
+\begin{itemize}[itemsep=0em, parsep=0.5em, topsep=0em]
+\item \textbf{Instructor} - \textbf{Linguistics Department}  
+\begin{itemize}[itemsep=0em, parsep=0.2em, topsep=0em]
+    \item LIN 101   \quad Introduction to Linguistics (co-taught) \hfill Winter 2023
+    \item LIN 230 \quad  Sociolinguistics (co-taught) \hfill Summer 2023; Summer 2024\\
+\end{itemize}
+\item \noindent\textbf{Teaching Assistant – Department of Linguistics} \\
+{\footnotesize\textit{(Courses marked with * indicate responsibility for lab or recitation sessions.)}}
+
+\begin{itemize}[itemsep=0em, parsep=0.3em, topsep=0em]
+    \item LIN 637 \quad  Computational Linguistics \hfill Spring 2026
+    \item LIN 330 \quad  Language Acquisition (Online, Asynchronous) \hfill Winter 2025 
+    \item LIN 380 \quad  Anatomy and Physiology of Speech and Hearing \hfill Fall 2025
+    \item LIN 350 \quad  Experimental Phonetics* \hfill Spring 2025
+    \item LIN 320 \quad English Grammar \hfill Fall 2024
+    \item LIN 110 \quad  Anatomy of Language (Online, Asynchronous) \hfill Spring 2024
+    \item LIN 536 \quad Mathematical Methods \hfill Fall 2023
+    \item LIN 201 \quad Phonetics* \hfill Fall 2022
+    \item LIN 300 \quad Phonology* \hfill Spring 2022; Spring 2023
+    \item LIN 431 \quad Uncommonly Taught Language (Hausa)* \hfill Fall 2021\\
+\end{itemize}
+
+\item \textbf{Research/Project Assistant – Department of Linguistics}\par
+\begin{itemize}[itemsep=0em, parsep=0.3em, topsep=0em]
+    \item Research Assistant to Dr.\ Thomas Graf, developing course materials for \textit{Math Methods} \hfill Summer 2022
+    \item Research Assistant to Dr.\ John Bailyn at V-NYI  \hfill Spring 2026 (scheduled)\\
+\end{itemize}
+
+\item \textbf{Student Assistant – Student Accessibility \& Support Center} \hfill 2023–present
+\begin{itemize}[itemsep=0em, parsep=0.3em, topsep=0em]
+    \item Proctored accommodated exams and provided administrative support 
+\end{itemize}
+\end{itemize}
+
+\cvsection{Service}  
+
+\cvsubsection{Departmental / University}
+\begin{itemize}[itemsep=0em, parsep=0.3em, topsep=0em]
+    \item Student Coordinator, Open House, Stony Brook Linguistics PhD Program \hfill 2026
+    \item Organizer, Stony Brook–Yale–NYU–CUNY Linguistics Conference (SYNC) \hfill 2024  
+    \item Organizer, Linguistics Colloquium Series, Department of Linguistics \hfill 2023--2024
+    \item Senator, Graduate Student Organization (GSO) \hfill 2022--2023
+    \item Organizer, Linguistics Brown Bag Series, Department of Linguistics \hfill 2022\\
+\end{itemize}
+
+\cvsubsection{Professional Service}
+\begin{itemize}[itemsep=0em, parsep=0.3em, topsep=0em]
+    \item Reviewer, SYNC \hfill 2025
+    \item Session Chair, Mathematics of Language (MoL 20) \hfill 2025
+    \item Reviewer, Formal Approaches to South Asian Linguistics (FASAL 14) \hfill 2024
+    \item Session Chair, Workshop on Model-Theoretic Representations in Phonology \hfill 2022\\
+\end{itemize}
+
+\cvsubsection{Outreach}
+\begin{itemize}[itemsep=0em, parsep=0.3em, topsep=0em]
+    \item Volunteer,  Longwood Women in STEM \hfill April 2026
+    \item Instructor, North American Computational Linguistics Open Competition (NACLO) \hfill 2024--2025
+    \item Tutor, Summer Youth Camp for Computational Linguistics (SYCCL) \hfill 2023--2025
+\end{itemize}
+
+% Skills Section
+\cvsection{Skills}
+\begin{itemize}[itemsep=0.3em]
+    \item \textbf{Languages:} Mandarin (native), English (near-native), Japanese (intermediate)
+    
+    \item \textbf{Programming:} Python (Pandas, NumPy, scikit-learn, PyTorch), R (tidyverse), Haskell
+    
+    \item \textbf{Speech \& Experimental Tools:} Praat, ELAN, PsychoPy, E-Prime, Qualtrics
+    
+    \item \textbf{Computational \& Research Tools:} \LaTeX, Git, GitHub, Jupyter Notebooks
+    
+    \item \textbf{Methods:} Statistical analysis, experimental design, hypothesis testing, data visualization, machine learning (classification, regression, model evaluation)
+\end{itemize}
+
+\end{document}
