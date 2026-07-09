@@ -30,7 +30,7 @@ Together, these strands aim to build a unified account of how tone and prosodic 
 
 # Presentations
 
-- Li, H. & Heinz, J. What Matters in Tonotactic Learning *SCiL*, 2026 [Slides](/data/slides/scil26.pdf) [Q&A](data/slides/scil26_qa.md)
+- Li, H. & Heinz, J. What Matters in Tonotactic Learning *SCiL*, 2026 [Slides](/data/slides/scil26.pdf) [Q&A](/data/slides/scil26_qa.md)
 
 - Li, H. & Heinz, J. Comparing tonotactic learning over strings and autosegmental representations. Paper to be presented at the Old World Conference in Phonology (OCP 23)
 
