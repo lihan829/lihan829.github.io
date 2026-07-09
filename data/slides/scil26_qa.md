@@ -4,12 +4,12 @@ title: SCiL 2026 Q&A
 nav_exclude: true
 ---
 
-{: .new }
+{: .warning }
 ### Question 1
 
 I had a quick question. I noticed that your baseline model that you're reporting results on is a human-constructed grammar, right? Do you have an intuition or understanding of why MaxEnt's issue, in this context, is with precision? Do you have an interpretation of that, or is there something we should think about regarding the learning process?
 
-{: .note }
+{: .note-title }
 ### My Answer
 
 For the poor performance of the baseline, I can tell you exactly why it's bad.
@@ -22,14 +22,14 @@ As for MaxEnt, I don't know why its precision is low besides the lack of the fre
 
 ---
 
-{: .new }
+{: .warning }
 ### Question 2
 
 One of your findings is that frequency information is critical for MaxEnt, but not for BUFIA.
 
 I was wondering whether you have a normative judgment about whether frequency information *should* be necessary for learning. Is it more human-like for frequency information to be required? Conversely, if you have a learning algorithm where frequency information isn't important, could that mean the algorithm has an inductive bias that's perhaps too strong to be human-like?
 
-{: .note }
+{: .note-title }
 ### My Answer
 
 We don't have any judgment about what implications this has for human language learning.
@@ -44,7 +44,7 @@ That's the main takeaway regarding the importance of frequency.
 
 ---
 
-{: .new }
+{: .warning }
 ### Question 3
 
 One of your conclusions is that BUFIA-AR achieves the best performance.
@@ -55,7 +55,7 @@ For example, if we think about a language-acquiring child, do we assume they sim
 
 If so, could you say a little about how your conclusions bear on that question?
 
-{: .note }
+{: .note-title }
 ### My Answer
 
 So far, whether we're talking about **segment**, **feature**, or **autosegmental representations**, we can formalize all of them in a model-theoretic framework.
