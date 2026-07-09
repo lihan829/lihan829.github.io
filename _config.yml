@@ -2,7 +2,7 @@ title: Han Li
 description:  PhD Candidate in Linguistics | Computational Phonology
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: "https://lihan829.github.io/"
 favicon_ico: "/images/favicon.ico"
 
 
@@ -13,6 +13,7 @@ aux_links:
   LinkedIn: https://www.linkedin.com/in/lihan61
   Google Scholar: https://scholar.google.com/citations?user=2_Fyp30AAAAJ&hl=en
   Email: mailto:han.li.4@stonybrook.edu
+
 
 callouts:
   highlight:
@@ -29,3 +30,7 @@ callouts:
   warning:
     title: Warning
     color: red
+
+
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
