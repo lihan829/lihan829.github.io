@@ -4,7 +4,7 @@ title: SCiL 2026 Q&A
 nav_exclude: true
 ---
 
-{: .warning }
+{: .new-title }
 ### Question 1
 
 I had a quick question. I noticed that your baseline model that you're reporting results on is a human-constructed grammar, right? Do you have an intuition or understanding of why MaxEnt's issue, in this context, is with precision? Do you have an interpretation of that, or is there something we should think about regarding the learning process?
@@ -13,8 +13,9 @@ I had a quick question. I noticed that your baseline model that you're reporting
 ### My Answer
 
 For the poor performance of the baseline, I can tell you exactly why it's bad.
-
-It's because two of the constraints—**no final LH/HL**, and also **no LHLs**—are too strong. They're too restrictive. Our dataset actually contains some data points that violate these two constraints.
+It's because two of the constraints—**no final LH/HL**, and also **no LHLs**—are 
+too strong. They're too restrictive. Our dataset actually contains some data 
+points that violate these two constraints.
 
 The other three constraints, like **no rise**, **no monosyllabic contour**, and **no superheavy syllable**, are perfectly fine. So it's mostly these two overly strong constraints that hurt the baseline.
 
@@ -22,12 +23,17 @@ As for MaxEnt, I don't know why its precision is low besides the lack of the fre
 
 ---
 
-{: .warning }
+{: .new-title }
 ### Question 2
 
 One of your findings is that frequency information is critical for MaxEnt, but not for BUFIA.
 
-I was wondering whether you have a normative judgment about whether frequency information *should* be necessary for learning. Is it more human-like for frequency information to be required? Conversely, if you have a learning algorithm where frequency information isn't important, could that mean the algorithm has an inductive bias that's perhaps too strong to be human-like?
+I was wondering whether you have a normative judgment about whether frequency 
+information *should* be necessary for learning. Is it more human-like for frequency 
+information to be required? Conversely, if you have a learning algorithm where 
+frequency information isn't important, could that mean the algorithm has an inductive 
+bias that's perhaps too strong to be human-like?
+
 
 {: .note-title }
 ### My Answer
@@ -44,7 +50,7 @@ That's the main takeaway regarding the importance of frequency.
 
 ---
 
-{: .warning }
+{: .new-title }
 ### Question 3
 
 One of your conclusions is that BUFIA-AR achieves the best performance.
