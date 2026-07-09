@@ -14,6 +14,9 @@ nav_exclude: true
 >
 > For the poor performance of the baseline, I can tell you exactly why it's bad. It's because two of the constraints—**no final LH/HL** and **no LHL**—are too strong. They're too restrictive. Our dataset actually contains some data points that violate these two constraints. The other three constraints—**no rise**, **no monosyllabic contour**, and **no superheavy syllable**—are perfectly fine. So it's mostly these two overly strong constraints that hurt the baseline. As for MaxEnt, besides the lack of frequency information, I don't yet have an explanation for its relatively low precision.
 
+
+---
+
 {: .new-title }
 > **Question 2**
 >
@@ -23,6 +26,8 @@ nav_exclude: true
 > **My Answer**
 >
 > We don't have any judgment about what implications this has for human language learning. I think that's something we could investigate in future work, perhaps using external evidence. Right now, we're simply looking at **when** frequency information is needed in a learning scheme. What we can say from these results is that if you use **categorical learning** together with a more linguistically explicit representation, then frequency information is not necessarily needed in this setting. That's the main takeaway regarding the importance of frequency.
+
+---
 
 {: .new-title }
 > **Question 3**
