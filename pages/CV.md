@@ -5,10 +5,9 @@ nav_order: 5
 ---
 
 # Curriculum Vitae
-See the most updated CV [here](https://www.overleaf.com/read/sftvxwcyrcrz#09f237)
 
 <iframe 
-  src="{{ '/data/lihan_CV_Jun.pdf' | relative_url }}" 
+  src="{{ '/data/CV/CV.pdf' | relative_url }}" 
   width="100%" 
-  height="800px">
+  height="1000px">
 </iframe>
