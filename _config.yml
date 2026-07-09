@@ -17,7 +17,6 @@ aux_links:
 
 callouts:
   highlight:
-    title: Highlight
     color: yellow
   important:
     title: Important

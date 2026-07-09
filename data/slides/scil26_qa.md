@@ -4,7 +4,7 @@ title: SCiL 2026 Q&A
 nav_exclude: true
 ---
 
-{: .highlight }
+{: .question }
 ### Question 1
 
 I had a quick question. I noticed that your baseline model that you're reporting results on is a human-constructed grammar, right? Do you have an intuition or understanding of why MaxEnt's issue, in this context, is with precision? Do you have an interpretation of that, or is there something we should think about regarding the learning process?
@@ -22,7 +22,7 @@ As for MaxEnt, I don't know why its precision is low besides the lack of the fre
 
 ---
 
-{: .highlight }
+{: .question }
 ### Question 2
 
 One of your findings is that frequency information is critical for MaxEnt, but not for BUFIA.
@@ -44,7 +44,7 @@ That's the main takeaway regarding the importance of frequency.
 
 ---
 
-{: .highlight }
+{: .question }
 ### Question 3
 
 One of your conclusions is that BUFIA-AR achieves the best performance.
