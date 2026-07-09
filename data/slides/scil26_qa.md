@@ -1,3 +1,9 @@
+---
+layout: default
+title: SCiL 2026 Q&A
+nav_exclude: true
+---
+
 ## Q1. Reasons for low performance
 
 > I had a quick question. I noticed that your baseline model that you're reporting results on is a human-constructed grammar, right?
