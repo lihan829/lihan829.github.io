@@ -63,3 +63,6 @@ callouts:
   warning:
     title: Warning
     color: red
+
+plugins:
+  - jekyll-last-modified-at

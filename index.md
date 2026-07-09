@@ -1,7 +1,8 @@
 ---
 title: About Me
-layout: default
+layout: home
 nav_order: 1
+last_modified_date: 2026-07-08
 ---
 
 
