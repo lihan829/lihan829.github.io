@@ -4,34 +4,41 @@ title: SCiL 2026 Q&A
 nav_exclude: true
 ---
 
-## Q1. Reasons for low performance
+{: .highlight }
+> Question 1
+> 
+> I had a quick question. I noticed that your baseline model that you're reporting 
+> results on is a human-constructed grammar, right? Do you have an intuition or 
+> understanding of why MaxEnt's issue, in this context, is with precision? Do you have 
+> an interpretation of that, or is there something we should think about regarding 
+> the learning process?
 
-> I had a quick question. I noticed that your baseline model that you're reporting results on is a human-constructed grammar, right?
+{: .note-title }
+> My Answer 
 >
-> Do you have an intuition or understanding of why MaxEnt's issue, in this context, is with precision? Do you have an interpretation of that, or is there something we should think about regarding the learning process?
-
-**My Answer**
-
 > For the poor performance of the baseline, I can tell you exactly why it's bad.
->
-> It's because two of the constraints—**no final LH/HL**, and also **no LHLs**—are too strong. They're too restrictive. Our dataset actually contains some data points that violate these two constraints.
->
-> The other three constraints, like **no rise**, **no monosyllabic contour**, and **no superheavy syllable**, are perfectly fine. So it's mostly these two overly strong constraints that hurt the baseline.
->
+> It's because two of the constraints—**no final LH/HL**, and also **no LHLs**—are too 
+> strong. They're too restrictive. Our dataset actually contains some data points that 
+> violate these two constraints. The other three constraints, like **no rise**, **no 
+> monosyllabic contour**, and **no superheavy syllable**, are perfectly fine. So it's 
+> mostly these two overly strong constraints that hurt the baseline.
 > As for MaxEnt, I don't know why its precision is low besides the lack of the frequency. I don't have an explanation for that yet.
 
 ---
 
-## Q2. Frequency Information
+{: .highlight }
+> Question 2
+> 
+> One of your findings is that frequency information is critical for MaxEnt, but not
+> for BUFIA. I was wondering whether you have a normative judgment about whether
+> frequency information *should* be necessary for learning. Is it more human-like 
+> for frequency information to be required? Conversely, if you have a learning 
+> algorithm where frequency information isn't important, could that mean the 
+> algorithm has an inductive bias that's perhaps too strong to be human-like?
 
-> One of your findings is that frequency information is critical for MaxEnt, but not for BUFIA.
+{: .note-title }
+> My Answer 
 >
-> I was wondering whether you have a normative judgment about whether frequency information *should* be necessary for learning.
->
-> Is it more human-like for frequency information to be required? Conversely, if you have a learning algorithm where frequency information isn't important, could that mean the algorithm has an inductive bias that's perhaps too strong to be human-like?
-
-**Answer**
-
 > We don't have any judgment about what implications this has for human language learning.
 >
 > I think that's something we could investigate in future work, perhaps using external evidence.
@@ -44,8 +51,9 @@ nav_exclude: true
 
 ---
 
-## Q3. Representation Learning 
-
+{: .highlight }
+> Question 3
+> 
 > One of your conclusions is that BUFIA-AR achieves the best performance.
 >
 > I was wondering if you could say a little more about the representation side.
@@ -54,10 +62,9 @@ nav_exclude: true
 >
 > If so, could you say a little about how your conclusions bear on that question?
 
-**Answer**
-
-> Thank you so much for the great question.
->
+{: .note-title }
+> My Answer 
+> 
 > So far, whether we're talking about **segment**, **feature**, or **autosegmental representations**, we can formalize all of them in a model-theoretic framework.
 >
 > That means each representation defines a hypothesis space with a containment relation.
@@ -70,4 +77,4 @@ nav_exclude: true
 >
 > It can work with autosegmental representations, syllable structures, or, more generally, any multi-tier representation that can be formalized model-theoretically and equipped with a containment relation.
 >
-> So, I don't know if that fully answers your question, but the key point is that the representation itself is not learned in this process
+> So, I don't know if that fully answers your question, but the key point is that the representation itself is not learned in this process.
