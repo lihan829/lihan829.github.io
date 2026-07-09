@@ -2,6 +2,7 @@
 title: CV
 layout: default
 nav_order: 5
+last_modified_date: 2026-07-08
 ---
 
 # Curriculum Vitae
