@@ -8,8 +8,8 @@ nav_order: 3
 
 ## Instructor
 
-| Course | Term | Institute
-|---|---|
+| Course | Term | Institute |
+|---|---|---|
 | LIN 101 — Introduction to Linguistics *(co-taught)* | Winter 2023 | Stony Brook University |
 | LIN 230 — Sociolinguistics *(co-taught)* | Summer 2023, Summer 2024 |Stony Brook University |
 
