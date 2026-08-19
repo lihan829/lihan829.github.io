@@ -11,14 +11,17 @@ My research spans three interconnected areas:
 
 - **Phonetics–Phonology Interface:** I investigate how acoustic and perceptual patterns interact with abstract phonological representations, combining experimental methods and formal analysis to study the relationship between gradient speech behavior and phonological structure.
 
-Together, these strands aim to build a unified account of how tone and prosodic structure are represented, learned, and realized across both typical and atypical speech.
+- **(A)typical Speech:** I combine acoustic analysis, perceptual experiments, and formal phonological modeling to investigate how gradient patterns in bilingual speech and speech affected by Parkinson’s disease interact with abstract phonological representations.
+  
+Together, these strands aim to build a unified account of how segmental or tonal forms are represented, learned, and realized across both typical and atypical speech.
 
 
 # Publications
 
-- Li, H. & Heinz. J (Accepted) Learning tonotactics with autosegmental representations, *Phonology* [Manuscript](/data/pho.pdf)
+- Li, H. & Heinz. J (Accepted) Learning tonotactics with autosegmental representations, *Phonology* [Manuscript](data/papers/pho.pdf)
 
-- Li, H. & Heinz, J., (2026) What Matters in Tonotactic Learning, *Society for Computation in Linguistics* 9(1). [PDF](/data/scil2026.pdf) [DOI](https://doi.org/10.7275/scil.4029)
+
+- Li, H. & Heinz, J., (2026) What Matters in Tonotactic Learning, *Society for Computation in Linguistics* 9(1). [PDF](data/papers/scil2026.pdf) [DOI](https://doi.org/10.7275/scil.4029)
 
 - Li, H.  (2026). The Interaction between Tone and Intonation in Hausa _Wh_- Questions. Pamoja tena 'Together again': African linguistics after COVID. (Contemporary African Linguistics 14).  [DOI](https://doi.org/10.5281/zenodo.20285200)
 
