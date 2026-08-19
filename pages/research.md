@@ -18,25 +18,23 @@ Together, these strands aim to build a unified account of how segmental or tonal
 
 # Publications
 
-- Li, H. & Heinz. J (Accepted) Learning tonotactics with autosegmental representations, *Phonology* [Manuscript](data/papers/pho.pdf)
+- Li, H. & Heinz. J (Accepted) Learning tonotactics with autosegmental representations, *Phonology* [Manuscript](/data/papers/pho.pdf)
 
 
-- Li, H. & Heinz, J., (2026) What Matters in Tonotactic Learning, *Society for Computation in Linguistics* 9(1). [PDF](data/papers/scil2026.pdf) [DOI](https://doi.org/10.7275/scil.4029)
+- Li, H. & Heinz, J., (2026) What Matters in Tonotactic Learning, *Society for Computation in Linguistics* 9(1). [PDF](/data/papers/scil2026.pdf) [DOI](https://doi.org/10.7275/scil.4029)
 
-- Li, H.  (2026). The Interaction between Tone and Intonation in Hausa _Wh_- Questions. Pamoja tena 'Together again': African linguistics after COVID. (Contemporary African Linguistics 14).  [DOI](https://doi.org/10.5281/zenodo.20285200)
+- Li, H.  (2026). The Interaction between Tone and Intonation in Hausa _Wh_- Questions. Pamoja tena 'Together again': African linguistics after COVID. (Contemporary African Linguistics 14). [PDF](/data/papers/LiACAL54.pdf) [DOI](https://doi.org/10.7275/scil.4029) [DOI](https://doi.org/10.5281/zenodo.20285200)
 
 - Li, H (2025) Learning Tonotactic Patterns over Autosegmental Representations [DOI](https://openpublishing.library.umass.edu/amphonology/article/id/3034/)
 
-- Yi, L., Li, H., Li, Y., & Mu, J. (2024). An ongoing tonal-pattern change: Lanzhou dialect. *Journal of Chinese Linguistics*, 52(2), 336–361. [PDF](/data/lanzhou_tone.pdf) [DOI](https://muse.jhu.edu/article/929992)
+- Yi, L., Li, H., Li, Y., & Mu, J. (2024). An ongoing tonal-pattern change: Lanzhou dialect. *Journal of Chinese Linguistics*, 52(2), 336–361. [PDF](/data/papers/lanzhou_tone.pdf) [DOI](https://muse.jhu.edu/article/929992)
 
-- Li, H. (2021). Prosodic Differences between Rhetorical Questions and Information-seeking Questions in Mandarin.  *ICU Working Papers in Linguistics (ICUWPL)* , (15), 45-52. [PDF](/data/rhetoric.pdf)
+- Li, H. (2021). Prosodic Differences between Rhetorical Questions and Information-seeking Questions in Mandarin.  *ICU Working Papers in Linguistics (ICUWPL)* , (15), 45-52. [PDF](/data/papers/rhetoric.pdf)
 
 
 # Presentations
 
-- Li, H. & Heinz, J. What Matters in Tonotactic Learning *SCiL*, 2026
-  [Slides](/data/slides/scil26.pdf)
-  [Q&A](/data/slides/scil26_qa)
+- Li, H. & Heinz, J. What Matters in Tonotactic Learning *SCiL*, 2026 [Slides](/data/slides/scil26.pdf) [Q&A](/data/slides/scil26_qa)
 
 - Li, H. & Heinz, J. Comparing tonotactic learning over strings and autosegmental representations. Paper to be presented at the Old World Conference in Phonology (OCP 23)
 
