@@ -11,11 +11,10 @@ last_modified_date: 2026-07-08
 I am a PhD student in the [Department of Linguistics](https://linguistics.stonybrook.edu/) at Stony Brook University. I am also affiliated with the [Institute for Advanced Computational Science](https://iacs.stonybrook.edu/index.php). I work with [Jeffrey Heinz](http://jeffreyheinz.net/).
 <div style="width: 100%; overflow: auto;">
 
-  <div style="float: left; width: 52%;">
+  <div style="float: left; width: 60%;">
     <p>
       My research interests are primarily in computational linguistics with a focus on tonal phonology. Specifically:
     </p>
-
     <p>
       • tonal phonology and phonetics<br>
       • computational models of tonotactics and tonal processes
@@ -23,7 +22,7 @@ I am a PhD student in the [Department of Linguistics](https://linguistics.stonyb
     </p>
   </div>
 
-  <div style="float: right; width: 43%;">
+  <div style="float: right; width: 40%;">
     <img
       src="https://github.com/user-attachments/assets/f410a44d-302a-485d-9ccf-84b6e2c7c3bc"
       alt="Interaction Diagram"
