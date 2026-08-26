@@ -10,9 +10,10 @@ last_modified_date: 2026-07-08
 
 I am a PhD student in the [Department of Linguistics](https://linguistics.stonybrook.edu/) at Stony Brook University. I am also affiliated with the [Institute for Advanced Computational Science](https://iacs.stonybrook.edu/index.php). I work with [Jeffrey Heinz](http://jeffreyheinz.net/).
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<table style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+
+<td width="50%" valign="top" style="border: none; padding-right: 30px;">
 
 My research interests are primarily in <b>computational linguistics</b>, 
 with a focus on <b>tone languages</b>. Specifically:
@@ -26,7 +27,7 @@ with a focus on <b>tone languages</b>. Specifically:
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="middle" style="border: none;">
 
 <img
   width="100%"
@@ -35,9 +36,9 @@ with a focus on <b>tone languages</b>. Specifically:
 />
 
 </td>
+
 </tr>
 </table>
-
 
 
 Before Stony Brook, I received my master’s degree from Nanhang University (Nanjing, China) in 2021. My thesis investigated phonetic cues of rhetorical questions in Mandarin.
