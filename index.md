@@ -9,37 +9,31 @@ last_modified_date: 2026-07-08
 # Hi there!
 
 I am a PhD student in the [Department of Linguistics](https://linguistics.stonybrook.edu/) at Stony Brook University. I am also affiliated with the [Institute for Advanced Computational Science](https://iacs.stonybrook.edu/index.php). I work with [Jeffrey Heinz](http://jeffreyheinz.net/).
+<div style="width: 100%; overflow: auto;">
 
-<table style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
+  <div style="float: left; width: 52%;">
+    <p>
+      My research interests are primarily in <b>computational linguistics</b>,
+      with a focus on <b>tone languages</b>. Specifically:
+    </p>
 
-<td width="50%" valign="top" style="border: none; padding-right: 30px;">
+    <p>
+      • tonal representation and autosegmental theory<br>
+      • interaction between tone and intonation/segments<br>
+      • production and perception of tones<br>
+      • computational models of tonotactics and tonal processes
+    </p>
+  </div>
 
-My research interests are primarily in <b>computational linguistics</b>, 
-with a focus on <b>tone languages</b>. Specifically:
+  <div style="float: right; width: 43%;">
+    <img
+      src="https://github.com/user-attachments/assets/f410a44d-302a-485d-9ccf-84b6e2c7c3bc"
+      alt="Interaction Diagram"
+      style="width: 40%; height: auto;"
+    >
+  </div>
 
-<ul>
-  <li>tonal representation and autosegmental theory</li>
-  <li>interactions between tone and intonation/segments</li>
-  <li>production and perception of tones</li>
-  <li>computational models of tonotactics and tonal processes</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="middle" style="border: none;">
-
-<img
-  width="100%"
-  alt="Interaction Diagram"
-  src="https://github.com/user-attachments/assets/f410a44d-302a-485d-9ccf-84b6e2c7c3bc"
-/>
-
-</td>
-
-</tr>
-</table>
-
+</div>
 
 Before Stony Brook, I received my master’s degree from Nanhang University (Nanjing, China) in 2021. My thesis investigated phonetic cues of rhetorical questions in Mandarin.
 
