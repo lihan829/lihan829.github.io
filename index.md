@@ -2,7 +2,7 @@
 title: About Me
 layout: home
 nav_order: 1
-last_modified_date: 2026-07-08
+last_modified_date: 2026-08-25
 ---
 
 
