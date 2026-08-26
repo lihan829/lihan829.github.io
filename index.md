@@ -17,7 +17,7 @@ I am a PhD student in the [Department of Linguistics](https://linguistics.stonyb
     </p>
     <p>
       • tonal phonology and phonetics<br>
-      • computational models of tonotactics and tonal processes
+      • computational models of tonotactics and tonal processes<br>
       • speech production and perception<br>
     </p>
   </div>
