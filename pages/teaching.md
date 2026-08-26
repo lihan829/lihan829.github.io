@@ -11,7 +11,7 @@ nav_order: 3
 | Course | Term | Institute |
 |---|---|---|
 | LCD 101 — [Introduction to Linguistics](https://lihan829.github.io/101F26/) | Fall 2026 | Queens College, CUNY|
-| LCD 105 — [Methods in Computational Linguistics](https://lihan829.github.io/151F26/)|Fall 2026 |Queens College, CUNY |
+| LCD 151 — [Methods in Computational Linguistics](https://lihan829.github.io/151F26/)|Fall 2026 |Queens College, CUNY |
 | LIN 101 — Introduction to Linguistics *(co-taught)* | Winter 2023 | Stony Brook University |
 | LIN 230 — Sociolinguistics *(co-taught)* | Summer 2023, 2024 |Stony Brook University |
 
