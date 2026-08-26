@@ -13,15 +13,13 @@ I am a PhD student in the [Department of Linguistics](https://linguistics.stonyb
 
   <div style="float: left; width: 52%;">
     <p>
-      My research interests are primarily in <b>computational linguistics</b>,
-      with a focus on <b>tone languages</b>. Specifically:
+      My research interests are primarily in computational linguistics with a focus on tonal phonology. Specifically:
     </p>
 
     <p>
-      • tonal representation and autosegmental theory<br>
-      • interaction between tone and intonation/segments<br>
-      • production and perception of tones<br>
+      • tonal phonology and phonetics<br>
       • computational models of tonotactics and tonal processes
+      • speech production and perception<br>
     </p>
   </div>
 
@@ -29,7 +27,7 @@ I am a PhD student in the [Department of Linguistics](https://linguistics.stonyb
     <img
       src="https://github.com/user-attachments/assets/f410a44d-302a-485d-9ccf-84b6e2c7c3bc"
       alt="Interaction Diagram"
-      style="width: 40%; height: auto;"
+      style="width: 100%; height: auto;"
     >
   </div>
 
