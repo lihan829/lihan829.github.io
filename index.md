@@ -2,20 +2,35 @@
 title: About Me
 layout: home
 nav_order: 1
-last_modified_date: 2026-07-08
+last_modified_date: 2026-08-25
 ---
 
 
 # Hi there!
 
 I am a PhD student in the [Department of Linguistics](https://linguistics.stonybrook.edu/) at Stony Brook University. I am also affiliated with the [Institute for Advanced Computational Science](https://iacs.stonybrook.edu/index.php). I work with [Jeffrey Heinz](http://jeffreyheinz.net/).
+<div style="width: 100%; overflow: auto;">
 
-My research interest is primarily in computational linguistics with a focus on tone languages. Specifically:
+  <div style="float: left; width: 60%;">
+    <p>
+      My research interests are primarily in computational linguistics with a focus on tonal phonology. Specifically:
+    </p>
+    <p>
+      • tonal phonology and phonetics<br>
+      • computational models of tonotactics and tonal processes<br>
+      • speech production and perception<br>
+    </p>
+  </div>
 
-- tonal representation and autosegmental theory  
-- interaction between tone and intonation/segments  
-- production and perception of tones  
-- computational models of tonotactics and tonal processes
+  <div style="float: right; width: 40%;">
+    <img
+      src="https://github.com/user-attachments/assets/f410a44d-302a-485d-9ccf-84b6e2c7c3bc"
+      alt="Interaction Diagram"
+      style="width: 100%; height: auto;"
+    >
+  </div>
+
+</div>
 
 Before Stony Brook, I received my master’s degree from Nanhang University (Nanjing, China) in 2021. My thesis investigated phonetic cues of rhetorical questions in Mandarin.
 
